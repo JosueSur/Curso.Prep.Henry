@@ -1,0 +1,11 @@
+Variable: Es una forma de asignar el valor de algo para utilizarlo mas tarde.
+String: Es un bloque o cadena de texto, siempre se declara entre comillas simples o dobles.
+Funciones: Una vez que tenemos variables, las funciones nos ayudan a operar con ellas, podemos
+    compilar varias variables, para luego, a traves de las funciones llamarlas sin tener que 
+    repetir codigo. Podemos asignarles atributos a estas funciones, se hace a traves de variables
+    que declaramos luego de nombrar a la función y van entre parentesis. Luego se les asigna un
+    valor cuando llamamos a la funcion. La palabra reservada return se utiliza para indicar al
+    compilador que debe devolver el valor indicado, y tambien detiene la función en si.
+Declaracion if: Permite verificar si una sentencia es verdadera o falsa, en el caso de ser verdadera(true)
+    ejecuta el codigo indicado, sino(else) continua verificando la funcion.
+Valores Booleanos: Se utilizan para valores de dos unicas respuestas, true o false, o sea, verdadero o falso.
