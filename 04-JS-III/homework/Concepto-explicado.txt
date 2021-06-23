@@ -1,0 +1,2 @@
+Arrays: son una lista de elementos. Estos arreglos pueden estar compuestos por los elementos estudiados,
+    como Strings, numeros, booleanos, funciones, variables, null, undefined.
