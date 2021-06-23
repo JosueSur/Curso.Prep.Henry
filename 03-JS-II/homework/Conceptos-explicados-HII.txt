@@ -1,0 +1,7 @@
+for: Es una palabara reservada para manejar un bucle. El ciclo "for" repite una sentencia hasta que el resultado
+    es el que estamos buscando y alli se detiene. Primero declaramos una variable, luego la condicionamos y por
+    ultimo la incrementamos.
+&&: Significa "Y" o "and" y se utiliza para comparar dos expresiones y solo devuelve verdadero si ambas 
+    expresiones son true.
+||: Significa "ó" o "or" y se utiliza para comparar expresiones y devolvera verdader si una o ambas son verdaderas.
+!: Significa "No" o "not" y se utliza para que devuelva lo contrario a lo que resulte de la expresion.
