@@ -1,0 +1,16 @@
+Objetos: Los objetos son contenedores de datos, que a diferencia de las matrices o arreglos, pueden
+    contener mucha información sobre una sola cosa. Los objetos se instancian usando llaves {}.
+    Dentro de estas, vamos a declarar las propiedades del mismo. Se realizan por pares llamados 
+    clave:valor, las claves son unicas, solo puede haber una clave con ese nombre, pero si los valores
+    se pueden repetir. Los valores pueden ser culaquier tipo de datos, incluso funciones.
+Metodos: En los objetos, los valores pueden ser funciones, las funciones declaradas dentro de un 
+    objeto, son metodos.
+Bucle for..in: Como en los objetos las claves no estan asignadas a indices (como en las matrices) en
+    JavaScript existe un bucle llamado for...in. Inicia igual que el ciclo for utilizado, solo que en
+    este, entre parentesis declaramos una variable, luego la palabra reservada in y luego el nombre
+    del objeto. Esto recorre todas las claves del objeto.
+Notación de puntos vs notación de corchetes: Para llamar a los valores de un objeto existen estas dos
+    formas. En la primera, escribimos el nombre del objeto, seguido por un punto y luego la clave que
+    queremos llamar. Con la notación de corchetes se escribe el nombre del objeto, abrimos corchetes
+    y aqui solo se pueden referenciar cadenas, numeros o variables que hagan referencia a cadenas o
+    numeros.
