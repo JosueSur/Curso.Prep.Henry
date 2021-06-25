@@ -1,0 +1,4 @@
+Prototype: Las clases tienen una forma unica de establecer métodos para que todos los objetos instanciados
+    de esta clase puedan acceder a ellos, esto se conoce como Prototype.
+Constructor: tambien llamada clase, es una plantilla general, de la cual se sirven los objetos que
+    comparten propiedades.
