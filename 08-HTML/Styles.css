@@ -1,0 +1,46 @@
+body{
+    
+    background-image: url("homework/Asado-Dia-Nacional-del-Asado2.png");  
+    background-position: center center;
+	background-size: cover;	
+	position: relative;
+    color: white;
+    
+}
+
+h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 4px dashed lightblue;
+    position: absolute;
+    left: 375px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+a{
+    display: flex;
+    justify-content: center;
+}
+
