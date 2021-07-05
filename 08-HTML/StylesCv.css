@@ -1,0 +1,36 @@
+body{
+    width: 700px;
+    margin-left: 300px;
+}
+#Foto img{ 
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+#Titulo h1, h2{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline black;
+}
+#Titulo h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: teal;
+}
+#datos h3{
+    color: teal;
+}
+#Educacion h3{
+    color: teal;
+}
+#Experiencia h3{
+    color: teal;
+}
+#Habilidades h3{
+    color: teal;
+}
+#Hobbies h3{
+    color: teal;
+}
+#Actualidad h3{
+    color: teal;
+}
